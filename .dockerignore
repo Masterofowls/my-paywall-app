@@ -1,0 +1,13 @@
+# Fly.io / Docker
+Dockerfile
+fly.toml
+data/
+*.db
+*.db-*
+.env
+.env.*
+!.env.example
+node_modules
+dist
+.dev.vars
+.wrangler
