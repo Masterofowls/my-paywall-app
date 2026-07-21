@@ -27,3 +27,5 @@ data/
 *.njsproj
 *.sln
 *.sw?
+/scripts/fly-set-secrets.ps1
+/scripts/fly-deploy-prod.ps1
